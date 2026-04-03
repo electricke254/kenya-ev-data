@@ -1,0 +1,35 @@
+# Electric Kenya
+
+> Kenya's electric vehicle intelligence platform. Comprehensive data on EV adoption, charging infrastructure, vehicle specifications, import costs, and sustainable mobility across all 47 counties in Kenya. Published by the team at Tech-ish Kenya.
+
+Electric Kenya (electric.ke) tracks electric vehicle adoption in Kenya and East Africa. The platform provides a searchable vehicle database, an interactive charging station map covering all 47 counties, an import duty calculator with live exchange rates, and original analysis on energy policy, green finance, and sustainable transport. Kenya generates approximately 90% of its electricity from renewable sources (geothermal, hydro, wind, solar), making it one of the cleanest grids on Earth for EV charging. Electric vehicles imported to Kenya benefit from a reduced 10% excise duty rate versus 25% for ICE vehicles under the Finance Act 2023.
+
+## Core Tools
+
+- [Vehicle Database](https://electric.ke/vehicles/): Browse and compare electric, hybrid, and plug-in hybrid vehicles available in or relevant to the Kenyan market. Side-by-side comparison with specs including range, power, acceleration, and pricing context. 694+ vehicles listed.
+- [Charging Infrastructure Map](https://electric.ke/charging-infrastructure/): Interactive map of EV charging stations across Kenya. Filter by county, connector type (CCS2, CHAdeMO, Type 2, Battery Swap), charging speed, operator, and status. 44+ stations mapped across multiple counties.
+- [Import Duty Calculator](https://electric.ke/car-import-duty-calculator-kenya-2026/): Calculate the full landed cost of importing an EV to Kenya. Includes CIF to Mombasa, import duty, excise duty (EV vs ICE rates), VAT, IDF fee, railway development levy, and clearing fees. Live exchange rates updated twice daily.
+- [Events Calendar](https://electric.ke/events/): EV expos, sustainability workshops, industry meetups, and green energy events across Kenya.
+
+## Content Categories
+
+- [Green Transport](https://electric.ke/category/green-transport/): News and analysis on electric vehicles, electric motorcycles, electric buses, and sustainable transport in Kenya.
+- [Climate Action](https://electric.ke/category/climate-action/): Coverage of climate policy, regulations, carbon reduction, and environmental governance in Kenya.
+- [Renewable Energy](https://electric.ke/category/renewable-energy/): Reporting on geothermal, solar, wind, hydro, nuclear energy, green bonds, and clean energy finance in Kenya and East Africa.
+- [Sustainability](https://electric.ke/category/sustainability/): Broader sustainability coverage including ESG, conservation, agro-industrialisation, and environmental stewardship.
+
+## Key Analysis
+
+- [Charging Your EV at 4 Cents a Unit Changes Everything](https://electric.ke/2026/04/02/charging-your-ev-at-4-cents-a-unit-changes-everything/): Analysis of how projected nuclear electricity costs (4-5 US cents/kWh) would transform EV ownership economics and charging station business models in Kenya.
+- [Nuclear and Solar Are Not Enemies. Kenya Needs Both.](https://electric.ke/2026/03/30/nuclear-and-solar-are-not-enemies-kenya-needs-both/): Argument for why Kenya's clean energy strategy requires both nuclear baseload and renewable generation, with implications for EV charging infrastructure.
+- [Kenya Raises $1.2 Billion in Historic Green Bond](https://electric.ke/2026/03/16/kenya-raises-1-2-billion-in-historic-green-bond-and-here-is-what-it-means-for-you/): Coverage of Kenya's landmark green bond issuance and its implications for clean energy and transport investment.
+- [Honda Spinoff PathAhead Builds Desert Sand Road Material Factory in Kenya](https://electric.ke/2026/04/01/honda-spinoff-pathahead-is-building-a-desert-sand-road-material-factory-in-kenya/): Honda's sustainability-focused spinoff chooses Kenya for world-first factory.
+
+## About
+
+- [About Electric Kenya](https://electric.ke/about/): Mission, coverage areas, and team information.
+- [Contact](https://electric.ke/contact/): Reach the editorial team.
+
+## Open Data
+
+- [Kenya EV Data Repository](https://github.com/[USERNAME]/kenya-ev-data): Open datasets on charging stations, vehicle specifications, and import duty rates. CSV format, CC BY 4.0 licence.
