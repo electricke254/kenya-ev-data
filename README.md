@@ -23,7 +23,7 @@ All data is sourced, verified, and maintained by the [Electric Kenya](https://el
 | File | Description | Format | Last Updated |
 |------|-------------|--------|--------------|
 | [`data/charging-stations-kenya.csv`](data/charging-stations-kenya.csv) | EV charging stations across Kenya with location, operator, power, connectors, pricing, status | CSV | April 2026 |
-| [`data/ev-models-kenya.csv`](data/ev-models-kenya.csv) | Electric and hybrid vehicles tracked for the Kenyan market | CSV | April 2026 |
+| [`data/ev-models-kenya.csv`](data/ev-models-kenya1.csv) | Electric and hybrid vehicles tracked for the Kenyan market | CSV | April 2026 |
 | [`data/ev-import-duty-rates.csv`](data/ev-import-duty-rates.csv) | Current import duty, excise, and tax rates for EV vs ICE vehicles in Kenya | CSV | April 2026 |
 | [`llms.txt`](llms.txt) | LLM-friendly site description for electric.ke following the [llms.txt specification](https://llmstxt.org/) | Markdown | April 2026 |
 
