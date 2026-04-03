@@ -1,0 +1,28 @@
+station_name	operator	county	location_detail	power_kw	connector_types	num_connectors	price_per_kwh_kes	status	source_url
+Junction Mall Charger		Nairobi	The Junction Mall, Ngong Road	22	Type 2	2		Operational	https://electric.ke/charging-stations/junction-mall-charger/
+Garden City Mall Charger		Nairobi	Garden City Mall, Thika Road	22	Type 2	2		Operational	https://electric.ke/charging-stations/garden-city-mall-charger/
+Roam Point ‚Äì Universal Fast Charger Nairobi	Roam	Nairobi	Industrial Area	6.6	Universal DC	4		Operational	https://electric.ke/charging-stations/roam-point-universal-fast-charger-nairobi/
+Moja EV ‚Äì Nairobi	Moja EV Kenya	Nairobi	Nairobi CBD	80	CCS2, CHAdeMO	2		Operational	https://electric.ke/charging-stations/moja-ev-nairobi/
+EvChaja ‚Äì Kisumu	EvChaja	Kisumu	Kisumu	22	Type 2	2		Operational	https://electric.ke/charging-stations/evchaja-kisumu/
+EvChaja ‚Äì Nakuru	EvChaja	Nakuru	Nakuru	22	Type 2	2		Operational	https://electric.ke/charging-stations/evchaja-nakuru/
+EvChaja ‚Äì Nanyuki	EvChaja	Laikipia	Nanyuki	22	Type 2	2		Operational	https://electric.ke/charging-stations/evchaja-nanyuki/
+Enashipai Resort & Spa ‚Äì Naivasha	Enashipai Resort	Nakuru	Enashipai Resort & Spa, Moi South Lake Road, Naivasha	22	Type 2	2	Free (for guests)	Operational	https://electric.ke/charging-stations/enashipai-resort-spa-naivasha/
+Greenspoon ‚Äì Regen (Karen)	Greenspoon	Nairobi	Greenspoon Online Food Store, Regen, Karen	22	Type 2	1		Operational	https://electric.ke/charging-stations/greenspoon-regen-karen/
+Roam ‚Äì Industrial Area HQ	Roam	Nairobi	Roam Motors, Industrial Area	6.6	Universal DC	6		Operational	https://electric.ke/charging-stations/roam-industrial-area-hq/
+ChargeNet ‚Äì The Arch Place	ChargeNet Kenya	Nairobi	The Arch Place, Nyangumi Road	22	Type 2	2		Operational	https://electric.ke/charging-stations/chargenet-the-arch-place/
+ChargeNet ‚Äì Ngong Racecourse (Be Energy)	ChargeNet Kenya	Nairobi	Be Energy Station, Ngong Racecourse	22	Type 2	2		Operational	https://electric.ke/charging-stations/chargenet-ngong-racecourse-be-energy/
+ChargeNet ‚Äì Kasarani (Hass Energy)	ChargeNet Kenya	Nairobi	Hass Energy Station, Santon Estate, Kasarani	22	Type 2	2		Operational	https://electric.ke/charging-stations/chargenet-kasarani-hass-energy/
+ChargeNet ‚Äì ABC Place Waiyaki Way	ChargeNet Kenya	Nairobi	ABC Place, Waiyaki Way, Westlands	22	Type 2	2		Operational	https://electric.ke/charging-stations/chargenet-abc-place-waiyaki-way/
+NCBA Centre ‚Äì Upper Hill EV Charger	NCBA Bank / EvChaja	Nairobi	NCBA Centre, Upper Hill	22	Type 2	2		Operational	https://electric.ke/charging-stations/ncba-centre-upper-hill-ev-charger/
+Roam Hub ‚Äì Suguta Centre	Roam	Nairobi	Suguta Centre	6.6	Battery Swap	24	20 KES/hr (battery rental)	Operational	https://electric.ke/charging-stations/roam-hub-suguta-centre/
+Roam Hub ‚Äì Karambee	Roam	Nairobi	Karambee	6.6	Battery Swap	24	20 KES/hr (battery rental)	Operational	https://electric.ke/charging-stations/roam-hub-karambee/
+Roam Hub ‚Äì Dagoretti	Roam	Nairobi	Dagoretti	6.6	Battery Swap	24	20 KES/hr (battery rental)	Operational	https://electric.ke/charging-stations/roam-hub-dagoretti/
+Roam Hub ‚Äì Forest Road	Roam	Nairobi	Forest Road	6.6	Battery Swap	24	20 KES/hr (battery rental)	Operational	https://electric.ke/charging-stations/roam-hub-forest-road/
+Roam Hub ‚Äì Roysambu (QuickMart)	Roam / QuickMart	Nairobi	QuickMart Roysambu	6.6	Battery Swap	24	20 KES/hr (battery rental)	Operational	https://electric.ke/charging-stations/roam-hub-roysambu-quickmart/
+Roam Hub ‚Äì Kayole Spine Road	Roam	Nairobi	Kayole Spine Road, Kayole	6.6	Battery Swap	24	20 KES/hr (battery rental)	Operational	https://electric.ke/charging-stations/roam-hub-kayole-spine-road/
+BasiGo ‚Äì Kikuyu Charging Depot	BasiGo	Kiambu	Kikuyu	120	CCS2	4		Operational	https://electric.ke/charging-stations/basigo-kikuyu-charging-depot/
+BasiGo ‚Äì Buru Buru Charging Depot	BasiGo	Nairobi	Buru Buru	120	CCS2	6		Operational	https://electric.ke/charging-stations/basigo-buru-buru-charging-depot/
+BasiGo ‚Äì Embakasi Charging Depot	BasiGo	Nairobi	Embakasi	120	CCS2	4		Operational	https://electric.ke/charging-stations/basigo-embakasi-charging-depot/
+TotalEnergies ‚Äì Gigiri	TotalEnergies	Nairobi	TotalEnergies Gigiri, United Nations Avenue	22	Type 2	2		Operational	https://electric.ke/charging-stations/totalenergies-gigiri/
+TotalEnergies ‚Äì Outering Road (Roam Hub)	TotalEnergies / Roam	Nairobi	TotalEnergies Outering Road	22	Type 2	2		Operational	https://electric.ke/charging-stations/totalenergies-outering-road-roam-hub/
+TotalEnergies ‚Äì Ngong Road	TotalEnergies / Roam	Nairobi	TotalEnergies Ngong Road	22	Type 2	2		Operational	https://electric.ke/charging-stations/totalenergies-ngong-road/
