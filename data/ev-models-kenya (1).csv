@@ -1,8 +1,0 @@
-make,model,variant,type,range_km,power_kw,acceleration_0_100_s,source_url
-Changan,Nevo E07,Standard,Electric,701,252,6.7,https://electric.ke/vehicles/changan-nevo-e07/
-Changan,Nevo E07,AWD,Electric,651,440,3.96,https://electric.ke/vehicles/changan-nevo-e07-awd/
-Changan,Nevo E07,EREV,Hybrid,230,252,,https://electric.ke/vehicles/changan-nevo-e07-erev/
-Changan,Nevo A06,Standard,Electric,630,210,,https://electric.ke/vehicles/changan-nevo-a06/
-Avatr,12,AWD,Electric,650,431,3.1,https://electric.ke/vehicles/avatr-12-awd/
-Avatr,12,Standard,Electric,755,237,,https://electric.ke/vehicles/avatr-12/
-Avatr,11,AWD,Electric,760,425,3.9,https://electric.ke/vehicles/avatr-11-awd/
