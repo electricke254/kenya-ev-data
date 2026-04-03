@@ -91,7 +91,7 @@ This data is free to use for research, journalism, policy analysis, application 
 
 ```
 Data source: Electric Kenya (https://electric.ke)
-Repository: https://github.com/[YOUR-USERNAME]/kenya-ev-data
+Repository: https://github.com/electricke254/kenya-ev-data
 ```
 
 ## Contributing
