@@ -1,0 +1,7 @@
+tax_component,rate_ev,rate_ice,applied_on,notes,source
+Import Duty,25%,25%,CIF Value,"Same rate for both EV and ICE vehicles",Finance Act 2023
+Excise Duty,10%,25%,CIF + Import Duty,"EVs benefit from reduced 10% rate vs 25% for ICE under Finance Act 2023. This is the key tax advantage for EVs.",Finance Act 2023
+VAT,16%,16%,"CIF + Import Duty + Excise Duty","Standard VAT rate applied on cumulative total",Kenya Revenue Authority
+IDF Fee,3.5%,3.5%,CIF Value,"Import Declaration Fee",Kenya Revenue Authority
+Railway Development Levy,2%,2%,CIF Value,"RDL applied on customs value",Kenya Revenue Authority
+Clearing & Agent Fees,Varies,Varies,N/A,"Typically KES 30000-80000 depending on agent and complexity",Industry estimate
